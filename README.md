@@ -1,2 +1,3 @@
 # landing-page-test-2
-sdfsdfsdfdsf
+
+This is a test site using Bootstrap to create the landing page.
